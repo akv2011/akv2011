@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi I'm Arunkumar V ,A software dev from India intrested in Deep learning and Neural Networks  <br>
+<br>Hi I'm Arunkumar V ,A software dev from India intrested in Deep learning,Blockchains and Neural Networks  <br>
 
 
 ## 🌐 Socials:
