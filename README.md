@@ -38,12 +38,8 @@
 | **CompasIQ** | Backend Engineer | FastAPI microservices on GCP |
 | **Ionic Protocol** | Engineer | DeFi systems · RAG pipelines on AWS |
 
-Research assistant at **NIT Tiruchirappalli** and **Anna University BIT Campus**.
+Research assistant at **NIT Tiruchirappalli** and **Georgia Tech**.
 
-### Recognition
-
-- **Smart India Hackathon 2023** — National Winner
-- Multiple preprint publications across ML and computational social science
 
 ### Tech Stack
 
