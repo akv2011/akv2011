@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Arunkumar%20V&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20ML%20Researcher&descSize=18&descAlignY=62" width="100%" alt="header" />
+<img src="./header.svg" alt="Arunkumar V — Software Engineer · ML Researcher" width="100%" />
 
 <a href="https://github.com/akv2011">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=0A66C2&center=true&vCenter=true&width=640&lines=Founding+engineer+%40+Armoriq+%C2%B7+LLM+security+%2B+MCP;Building+native+macOS+apps+with+MLX+%26+FoundationModels;Research+in+simulation-based+inference+%26+ABM;Smart+India+Hackathon+2023+%C2%B7+National+Winner" alt="taglines" />
@@ -74,28 +74,24 @@ Backend         Python · FastAPI · TypeScript · Node.js · Docker
                 GCP · AWS · PostgreSQL · SQLite
 ```
 
-<div align="center">
-<img src="./metrics.plugin.languages.svg" alt="Language breakdown by lines of code (public + private + org)" width="98%" />
-</div>
-
 ### Activity
 
 <div align="center">
 
-<img src="./metrics.svg" alt="Overview · full-year contribution heatmap" width="98%" />
+<img src="./metrics.svg" alt="Overview · full-year contribution heatmap" width="600" />
 
 <br/>
 
-<img src="./metrics.plugin.habits.svg" alt="Coding habits" width="48%" />
-<img src="./metrics.plugin.activity.svg" alt="Recent activity" width="48%" />
+<img src="./metrics.plugin.habits.svg" alt="Coding habits" width="42%" />
+<img src="./metrics.plugin.activity.svg" alt="Recent activity" width="42%" />
 
 <br/>
 
-<img src="./metrics.plugin.achievements.svg" alt="Achievements" width="98%" />
+<img src="./metrics.plugin.achievements.svg" alt="Achievements" width="600" />
 
 <br/>
 
-<img src="./metrics.plugin.followup.svg" alt="Issue and PR followup" width="98%" />
+<img src="./metrics.plugin.followup.svg" alt="Issue and PR followup" width="600" />
 
 </div>
 
@@ -104,7 +100,5 @@ Backend         Python · FastAPI · TypeScript · Node.js · Docker
 <div align="center">
 
 <sub>Open to research collaboration · <code>github.com/akv2011</code></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" alt="footer" />
 
 </div>
