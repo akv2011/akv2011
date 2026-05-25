@@ -1,11 +1,17 @@
 name: Metrics
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
-  push:
-    branches: ["main"]
-    paths: [".github/workflows/metrics.yml"]
+  # Schedule + push triggers DISABLED — README no longer embeds these SVGs,
+  # so no point burning Actions minutes daily. Workflow stays intact in case
+  # you want to re-enable; just uncomment the schedule block below.
+  #
+  # schedule:
+  #   - cron: "0 0 * * *"
+  # push:
+  #   branches: ["main"]
+  #   paths: [".github/workflows/metrics.yml"]
+
+  # Manual trigger only — run from the Actions tab if you want a fresh SVG set.
   workflow_dispatch:
 
 # ─────────────────────────────────────────────────────────────────────────────
