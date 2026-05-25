@@ -3,14 +3,14 @@
 <img src="./header.svg" alt="Arunkumar V — Software Engineer · ML Researcher" width="100%" />
 
 <a href="https://github.com/akv2011">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=0A66C2&center=true&vCenter=true&width=640&lines=Founding+engineer+%40+Armoriq+%C2%B7+LLM+security+%2B+MCP;Building+native+macOS+apps+with+MLX+%26+FoundationModels;Research+in+simulation-based+inference+%26+ABM;Smart+India+Hackathon+2023+%C2%B7+National+Winner" alt="taglines" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=c9d1d9&center=true&vCenter=true&width=640&lines=Founding+engineer+%40+Armoriq+%C2%B7+LLM+security+%2B+MCP;Building+native+macOS+apps+with+MLX+%26+FoundationModels;Research+in+simulation-based+inference+%26+ABM;Smart+India+Hackathon+2023+%C2%B7+National+Winner" alt="taglines" />
 </a>
 
 <p>
   <a href="https://www.linkedin.com/in/arun-kumar-v-3217322a4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/akv2011"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://arxiv.org/a/akv2011"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv" /></a>
-  <img src="https://img.shields.io/badge/Tiruchirappalli%2C%20India-0A66C2?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Tiruchirappalli%2C%20India-8b949e?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 </div>
@@ -73,27 +73,6 @@ Apple Native    Swift · SwiftUI · CoreML · MLX · Xcode
 Backend         Python · FastAPI · TypeScript · Node.js · Docker
                 GCP · AWS · PostgreSQL · SQLite
 ```
-
-### Activity
-
-<div align="center">
-
-<img src="./metrics.svg" alt="Overview · full-year contribution heatmap" width="600" />
-
-<br/>
-
-<img src="./metrics.plugin.habits.svg" alt="Coding habits" width="42%" />
-<img src="./metrics.plugin.activity.svg" alt="Recent activity" width="42%" />
-
-<br/>
-
-<img src="./metrics.plugin.achievements.svg" alt="Achievements" width="600" />
-
-<br/>
-
-<img src="./metrics.plugin.followup.svg" alt="Issue and PR followup" width="600" />
-
-</div>
 
 ---
 
