@@ -1,14 +1,17 @@
 <div align="center">
 
-# Arunkumar V
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Arunkumar%20V&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20ML%20Researcher&descSize=18&descAlignY=62" width="100%" alt="header" />
 
-**Software Engineer & ML Researcher**
+<a href="https://github.com/akv2011">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=0A66C2&center=true&vCenter=true&width=640&lines=Founding+engineer+%40+Armoriq+%C2%B7+LLM+security+%2B+MCP;Building+native+macOS+apps+with+MLX+%26+FoundationModels;Research+in+simulation-based+inference+%26+ABM;Smart+India+Hackathon+2023+%C2%B7+National+Winner" alt="taglines" />
+</a>
 
-Production ML systems · Native Apple apps · Research in simulation-based inference, agent-based modeling, and LLM systems
-
-Tiruchirappalli, India
-
-[LinkedIn](https://www.linkedin.com/in/arun-kumar-v-3217322a4) · [GitHub](https://github.com/akv2011) · [arXiv](https://arxiv.org/a/akv2011)
+<p>
+  <a href="https://www.linkedin.com/in/arun-kumar-v-3217322a4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/akv2011"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://arxiv.org/a/akv2011"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv" /></a>
+  <img src="https://img.shields.io/badge/Tiruchirappalli%2C%20India-0A66C2?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
 
 </div>
 
@@ -18,14 +21,12 @@ Tiruchirappalli, India
 
 - Founding engineer at **Armoriq** — LLM security and MCP gateway infrastructure
 - Building **Humanizer_** and **Voice_** — native macOS apps on Apple FoundationModels, CoreML, MLX, and WhisperKit
-- Two papers under review at **NeurIPS 2026** (main track)
+- Research in simulation-based inference, agent-based modeling, and LLM systems
 
 ### Selected Research
 
-| Paper | Status | Focus |
+| Paper | Venue | Focus |
 |---|---|---|
-| **MA-SBI** | NeurIPS 2026 (under review) | Misspecification-aware simulation-based inference |
-| **RAID** | NeurIPS 2026 (under review) | Retrieval-augmented iterative diffusion for cold-start and cross-lingual time-series |
 | **A-QCF-Net** | [arXiv:2512.21760](https://arxiv.org/abs/2512.21760) | Multimodal liver tumor segmentation · +7% Dice on LiTS / ATLAS |
 | **DML** | [arXiv:2512.22290](https://arxiv.org/abs/2512.22290) | Algorithmic management and worker autonomy |
 
@@ -37,14 +38,31 @@ Tiruchirappalli, India
 | **CompasIQ** | Backend Engineer | FastAPI microservices on GCP |
 | **Ionic Protocol** | Engineer | DeFi systems · RAG pipelines on AWS |
 
-Research assistant positions at **NIT Tiruchirappalli** and **Anna University BIT Campus**.
+Research assistant at **NIT Tiruchirappalli** and **Anna University BIT Campus**.
 
 ### Recognition
 
 - **Smart India Hackathon 2023** — National Winner
-- Multiple peer-reviewed and preprint publications across ML and computational social science
+- Multiple preprint publications across ML and computational social science
 
-### Stack
+### Tech Stack
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="42" alt="swift" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="typescript" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="42" alt="pytorch" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42" alt="tensorflow" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="42" alt="fastapi" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="nodejs" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="docker" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="42" alt="aws" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="42" alt="gcp" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="postgres" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git" />
+
+</div>
 
 ```
 Research        PyTorch · MLX · CoreML · WhisperKit · Apple FoundationModels
@@ -54,19 +72,39 @@ Apple Native    Swift · SwiftUI · CoreML · MLX · Xcode
 
 Backend         Python · FastAPI · TypeScript · Node.js · Docker
                 GCP · AWS · PostgreSQL · SQLite
-
-Tooling         Git · LaTeX · pandas · NumPy · scikit-learn
 ```
+
+<div align="center">
+<img src="./metrics.plugin.languages.svg" alt="Language breakdown by lines of code (public + private + org)" width="98%" />
+</div>
 
 ### Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akv2011&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&icon_color=0a66c2&title_color=0a66c2&text_color=666666&hide=contribs" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akv2011&layout=compact&theme=transparent&hide_border=true&title_color=0a66c2&text_color=666666&langs_count=8" alt="Top Languages" width="48%" />
+<img src="./metrics.svg" alt="Overview · full-year contribution heatmap" width="98%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akv2011&theme=minimal&hide_border=true&bg_color=transparent&color=0a66c2&line=0a66c2&point=666666&area=true" alt="Activity Graph" width="98%" />
+<img src="./metrics.plugin.habits.svg" alt="Coding habits" width="48%" />
+<img src="./metrics.plugin.activity.svg" alt="Recent activity" width="48%" />
+
+<br/>
+
+<img src="./metrics.plugin.achievements.svg" alt="Achievements" width="98%" />
+
+<br/>
+
+<img src="./metrics.plugin.followup.svg" alt="Issue and PR followup" width="98%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Open to research collaboration · <code>github.com/akv2011</code></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" alt="footer" />
 
 </div>
