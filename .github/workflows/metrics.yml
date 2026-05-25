@@ -79,9 +79,7 @@ jobs:
           plugin_languages_limit: 10
           plugin_languages_analysis_timeout: 45
           plugin_languages_categories: programming, markup
-          plugin_languages_recent_load: 2000
-          plugin_languages_recent_days: 365
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_sections: most-used
           plugin_languages_colors: github
 
       # ─── 3. Habits (when/how you code, aggregated) ────────────────────────
