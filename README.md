@@ -47,24 +47,15 @@
 
 ### Research
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Citations-21-58A6FF?style=for-the-badge&labelColor=161B22" alt="Citations" />
-<img src="https://img.shields.io/badge/h--index-1-58A6FF?style=for-the-badge&labelColor=161B22" alt="h-index" />
-<img src="https://img.shields.io/badge/i10--index-1-58A6FF?style=for-the-badge&labelColor=161B22" alt="i10-index" />
-<img src="https://img.shields.io/badge/Publications-7-58A6FF?style=for-the-badge&labelColor=161B22" alt="Publications" />
-
-</div>
-
-| Year | Paper | Venue | Focus | Cited |
-|:--|:--|:--|:--|:--:|
-| 2026 | **Content Determination Is the Faithfulness Bottleneck** | **INLG 2026**, Utrecht · *oral* | Faithfulness in data-to-text NLG, GlassGate framing | new |
-| 2026 | **Agentic Artificial Intelligence: Architectures, Taxonomies, and Evaluation of LLM Agents** | [arXiv:2601.12560](https://arxiv.org/abs/2601.12560) | Survey and evaluation framework for LLM agents · with R. Buyya | **21** |
-| 2026 | **Quantum Annealing Enhanced Reinforcement Learning for Accurate Remaining Useful Lifetime Prediction** | [arXiv:2606.18503](https://arxiv.org/abs/2606.18503) | Quantum-assisted RL for predictive maintenance | new |
-| 2026 | **RAID: Semantic Graph Diffusion for True Cold-Start and Cross-Lingual Forecasting** | [arXiv:2606.16925](https://arxiv.org/abs/2606.16925) | Graph diffusion, cold-start and cross-lingual forecasting | new |
-| 2026 | **MA-SBI: Misspecification-Aware Simulation-Based Inference via Side-Channel Guidance** | [arXiv:2606.16923](https://arxiv.org/abs/2606.16923) | Robust SBI under model misspecification | new |
-| 2025 | **When Algorithms Manage Humans: A Double Machine Learning Approach** | [arXiv:2512.22290](https://arxiv.org/abs/2512.22290) | Nonlinear effects of algorithmic control on gig worker performance and wellbeing | new |
-| 2025 | **A-QCF-Net: An Adaptive Quaternion Cross-Fusion Network** | [arXiv:2512.21760](https://arxiv.org/abs/2512.21760) | Multimodal liver tumor segmentation from unpaired CT/MRI · +7% Dice on LiTS and ATLAS | new |
+| Year | Paper | Venue | Focus |
+|:--|:--|:--|:--|
+| 2026 | **Content Determination Is the Faithfulness Bottleneck** | **INLG 2026**, Utrecht · *oral* | Faithfulness in data-to-text NLG, GlassGate framing |
+| 2026 | **Agentic Artificial Intelligence: Architectures, Taxonomies, and Evaluation of LLM Agents** | [arXiv:2601.12560](https://arxiv.org/abs/2601.12560) | Survey and evaluation framework for LLM agents · with R. Buyya |
+| 2026 | **Quantum Annealing Enhanced Reinforcement Learning for Accurate Remaining Useful Lifetime Prediction** | [arXiv:2606.18503](https://arxiv.org/abs/2606.18503) | Quantum-assisted RL for predictive maintenance |
+| 2026 | **RAID: Semantic Graph Diffusion for True Cold-Start and Cross-Lingual Forecasting** | [arXiv:2606.16925](https://arxiv.org/abs/2606.16925) | Graph diffusion, cold-start and cross-lingual forecasting |
+| 2026 | **MA-SBI: Misspecification-Aware Simulation-Based Inference via Side-Channel Guidance** | [arXiv:2606.16923](https://arxiv.org/abs/2606.16923) | Robust SBI under model misspecification |
+| 2025 | **When Algorithms Manage Humans: A Double Machine Learning Approach** | [arXiv:2512.22290](https://arxiv.org/abs/2512.22290) | Nonlinear effects of algorithmic control on gig worker performance and wellbeing |
+| 2025 | **A-QCF-Net: An Adaptive Quaternion Cross-Fusion Network** | [arXiv:2512.21760](https://arxiv.org/abs/2512.21760) | Multimodal liver tumor segmentation from unpaired CT/MRI · +7% Dice on LiTS and ATLAS |
 
 Research assistant at **NIT Tiruchirappalli** and **Georgia Tech**. Full list on [Google Scholar](https://scholar.google.com/citations?user=a69TLBcAAAAJ).
 
