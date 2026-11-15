@@ -1,0 +1,19 @@
+# README cards, see https://github.com/pedrocatalao/github-cool-readme
+user: akv2011
+
+show: [summary, languages, weekly, streaks] # also: contributions, about
+
+count:
+  private: true # totals only, private repo names never appear
+  orgs: true
+
+look:
+  style: classic
+  color: amber
+  animations: true
+
+cards:
+  summary:
+    ring: percent
+  languages:
+    count: 6
